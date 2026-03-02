@@ -18,10 +18,11 @@
 ### 🤓 Статистика:
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=Aleksandr-Veriasov&hide=contribs&show_icons=true">
-  <img align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Aleksandr-Veriasov&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Veriasov&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Veriasov&layout=compact" />
-</a>
+  <a href="https://metrics.lecoq.io/Aleksandr-Veriasov">
+    <img align="left" height="130" style="margin-right: 10px" src="https://metrics.lecoq.io/Aleksandr-Veriasov?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1" />
+  </a>
+
+  <a href="https://metrics.lecoq.io/Aleksandr-Veriasov">
+    <img align="left" height="130" src="https://metrics.lecoq.io/Aleksandr-Veriasov?template=classic&base.header=0&languages=1&languages.limit=8" />
+  </a>
 </div>
