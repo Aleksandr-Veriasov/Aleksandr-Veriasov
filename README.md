@@ -14,15 +14,3 @@
 ![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge)
 
 ---
-
-### 🤓 Статистика:
-
-<div>
-  <a href="https://metrics.lecoq.io/Aleksandr-Veriasov">
-    <img align="left" height="130" style="margin-right: 10px" src="https://metrics.lecoq.io/Aleksandr-Veriasov?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1" />
-  </a>
-
-  <a href="https://metrics.lecoq.io/Aleksandr-Veriasov">
-    <img align="left" height="130" src="https://metrics.lecoq.io/Aleksandr-Veriasov?template=classic&base.header=0&languages=1&languages.limit=8" />
-  </a>
-</div>
